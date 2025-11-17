@@ -86,12 +86,17 @@ Donde:
 ```bash
 git clone https://github.com/alvaroreyb/SMA_AirportControlAgents.git
 cd <SMA_AiportControlAgents>
+```
 2️⃣ Instalar dependencias
+```
 pip install numpy autogen
+```
 Nota: Se recomienda usar un entorno virtual de Python (venv o conda).
 
 3️⃣ Ejecutar la simulación
+```
 python all.py
+```
 4️⃣ Ver los resultados
 Al finalizar, la simulación imprimirá un resumen con los datos agregados:
 
