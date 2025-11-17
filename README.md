@@ -102,15 +102,25 @@ Al finalizar, la simulación imprimirá un resumen con los datos agregados:
 
 ----- RESUMEN FINAL -----
 Tiempo total en minutos: 500
+
 Número total de vuelos: 8
+
 Número de aeropuertos: 4
+
 Dimensiones de la cuadrícula: (50, 50)
+
 Pistas de aeropuertos -> Máx: 4, Mín: 1, Media: 2.25
+
 Velocidad de aviones -> Máx: 7.00, Mín: 3.00, Media declarada/calculada: 5.00/4.87
+
 Despegues por avión -> Máx: 5, Mín: 3, Media: 4.12
+
 Aterrizajes por avión -> Máx: 5, Mín: 3, Media: 4.12
+
 Retrasos en despegues -> Máx: 2, Mín: 0, Media: 0.62
+
 Retrasos en aterrizajes -> Máx: 3, Mín: 0, Media: 0.75
+
 --------------------------
 📊 Estructura de Datos y Dinámica
 Aeropuertos → Gestionan pistas (runways) con intervalos de seguridad (RUNWAY_INTERVAL).
