@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-orange)
+![Status](https://img.shields.io/badge/Completado-green)
 
 Este proyecto implementa una **simulación multiagente del tráfico aéreo**, en la que aeropuertos y aviones cooperan y compiten por recursos limitados (pistas de aterrizaje y despegue).  
 Los aeropuertos inteligentes aprenden mediante **Q-Learning** a optimizar la asignación de pistas, buscando reducir retrasos y mejorar la eficiencia global del sistema aéreo.
