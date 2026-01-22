@@ -46,7 +46,9 @@ El flujo principal se articula a través de las siguientes clases:
 
 all.py
 │
-├── make_dispersion_values() # Genera valores aleatorios con una dispersión controlada
+├── make_dispersion_values() # Genera valores aleatorios con una dispersión controladaInstalación:
+
+pip install numpy autogen
 │
 ├── AirportAgent # Aeropuerto básico con gestión de pistas
 ├── RL_AirportAgent # Aeropuerto inteligente con aprendizaje Q-Learning
@@ -146,9 +148,8 @@ Librería	Uso principal
 numpy	Cálculos numéricos y manejo de arrays
 autogen	Base para la definición de agentes autónomos
 
-Instalación:
 
-pip install numpy autogen
+
 🧑‍💻 Autor
 Álvaro Rey
 Proyecto académico sobre simulación de tráfico aéreo con agentes inteligentes.
@@ -188,4 +189,4 @@ Abre un Pull Request con una breve descripción.
 
 Si usas este trabajo en un contexto académico o de investigación:
 
-Rey, Á. (2025). Simulación de tráfico aéreo con agentes inteligentes y aprendizaje por refuerzo. Univeridad de Málaga.
+Rey-Blanes, Á. (2025). Simulación de tráfico aéreo con agentes inteligentes y aprendizaje por refuerzo. Univeridad de Málaga.
